@@ -45,27 +45,8 @@ Cylinder (radius = 4.12, height = 15.67)
 Surface Area: 518.43
 Volume: 845.10
 
-# Formulas Used
 
-Sphere
-
-Surface Area: 
-
-Volume: 
-
-Cylinder
-
-Surface Area: 
-
-Volume: 
-
-Cube
-
-Surface Area: 
-
-Volume: 
-
-File Structure
+# File Structure
 
 Shape3DInterface: The interface defining methods for surface area and volume.
 

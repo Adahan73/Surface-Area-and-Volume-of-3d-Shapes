@@ -45,7 +45,7 @@ Cylinder (radius = 4.12, height = 15.67)
 Surface Area: 518.43
 Volume: 845.10
 
-Formulas Used
+# Formulas Used
 
 Sphere
 
